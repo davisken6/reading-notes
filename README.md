@@ -1,3 +1,12 @@
+[HOME](https://davisken6.github.io/reading-notes/)
+
+[READING NOTES 1](https://davisken6.github.io/reading-notes/readingnotes1)
+
+[READING NOTES 2](https://davisken6.github.io/reading-notes/readingnotes2)
+
+[READING NOTES 3](https://davisken6.github.io/reading-notes/readingnotes3)
+
+
 # reading-notes
 Reading notes for CodeFellows 💻
 
