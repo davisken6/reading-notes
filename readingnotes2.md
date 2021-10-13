@@ -1,3 +1,9 @@
+[HOME](https://davisken6.github.io/reading-notes/)
+
+[READING NOTES 1](https://davisken6.github.io/reading-notes/readingnotes1)
+
+[READING NOTES 3](https://davisken6.github.io/reading-notes/readingnotes3)
+
 # Text Editors
 **Text editors** are used by coders to edit their text as they type code. There are many different kinds of text editors, some common ones being: **Notepad** or **Text Edit**. These, however, are just the bare bone text editors.
 Finding the right text editor is about trial and error and personal preference. Different text editors are used for different operating systems. Some are free, some cost money. 💲
