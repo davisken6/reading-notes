@@ -12,12 +12,18 @@ A few important things to consider when choosing a text editor are:
 2. **Themes**, which allow you to change the color of your background and series of color in text &
 3. **Code Completion**, which helps by keeping a history of commands you have typed to save you time and also helps prevent mistakes like forgetting to close off your line of code.
  
- #### Here are some popular text editors to check out
- ###### [Visual Code](https://code.visualstudio.com/)
- ###### [Atom](https://atom.io/)
- ###### [Brackets](https://brackets.io/)
+ ## Here are some popular text editors to check out
  
- # Linux
+ 
+  [Visual Code](https://code.visualstudio.com/)
+  
+  
+  [Atom](https://atom.io/)
+  
+  
+  [Brackets](https://brackets.io/)
+ 
+ ## Linux
  **Linux** is an open source operating system and GUI(Graphical User Interface) like Windows, iOS, and Mac OS. Within Linux, you can enter different command codes to get to a certain part of your computer.
  Everything is a file under Linux and it is an extensionless system. Each part of your computer is technically a file that has a different use. Your screen is used to communicate the text and graphics, the keyboard is used for you to communicate text into the computer, the mouse is used to direct where you are headed on each page.
  Within Linux you will enter different **commands**. Some very common commands would be "ls" (lists your current location in the terminal), "cd" (used to move around the system), & "pwd" (Print Working Directory, tells you what your current working directory is).
