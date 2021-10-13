@@ -1,5 +1,3 @@
-[HOME](https://davisken6.github.io/reading-notes/)
-
 [READING NOTES 1](https://davisken6.github.io/reading-notes/readingnotes1)
 
 [READING NOTES 2](https://davisken6.github.io/reading-notes/readingnotes2)
