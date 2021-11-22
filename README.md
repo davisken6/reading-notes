@@ -4,6 +4,15 @@
 
 [READING NOTES 3](https://davisken6.github.io/reading-notes/readingnotes3)
 
+[READING NOTES 4](https://davisken6.github.io/reading-notes/readingnotes4)
+
+[READING NOTES 5](https://davisken6.github.io/reading-notes/readingnotes5)
+
+[READING NOTES 6](https://davisken6.github.io/reading-notes/readingnotes6)
+
+[READING NOTES 7](https://davisken6.github.io/reading-notes/readingnotes7)
+
+[READING NOTES 8](https://davisken6.github.io/reading-notes/readingnotes8)
 
 # reading-notes 102
 Reading notes for CodeFellows 💻
